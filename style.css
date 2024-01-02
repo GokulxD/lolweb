@@ -1,1 +1,18 @@
-
+body{
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+.navbar{
+  background-color: black;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+.navbar-content{
+  max-width: 800px;
+  margin: 0 auto;
+}
+.logo{
+  font-weight: bold;
+}
