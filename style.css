@@ -1,11 +1,11 @@
 body{
   margin: 0;
   padding: 0;
-  background-color: black;
+  background-color: white;
 }
 .navbar{
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   padding: 10px 0;
   text-align: center;
 }
